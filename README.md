@@ -1,2 +1,2 @@
 # 📷🍺 Photo.Beer
-# Take Photo,Take Beer！
+## Take Photo,Take Beer！
